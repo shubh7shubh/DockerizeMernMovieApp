@@ -25,7 +25,7 @@ class Links extends Component {
                     <List>
                         <Item>
                             <Link to="/movies/list" className="nav-link">
-                                List Movies
+                                List all Movies
                             </Link>
                         </Item>
                         <Item>
