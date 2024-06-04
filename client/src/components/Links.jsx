@@ -33,6 +33,11 @@ class Links extends Component {
                                 Create Movie
                             </Link>
                         </Item>
+                        <Item>
+                            <Link to="/" className="nav-link">
+                                Home
+                            </Link>
+                        </Item>
                     </List>
                 </Collapse>
             </React.Fragment>
